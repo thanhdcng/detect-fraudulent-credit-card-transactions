@@ -1,4 +1,4 @@
-# Daisy Detect Fraudulent Credit Card Transactions
+# Detect Fraudulent Credit Card Transactions
 
 ## Project Overview
 
