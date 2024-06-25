@@ -39,26 +39,6 @@ The objective of this project is to develop a robust and efficient machine learn
 - A PC, Mac, or Linux computer with Internet access.
 - The development environment (Linux | Windows) and programming language(s) to be used will depend on the existing skills of the team members and will be chosen in consultation with the Project Supervisors.
 
-## Project structure
-detect-fraudulent-credit-card-transactions/
-├── data/
-│   ├── raw/
-│   └── processed/
-├── notebooks/
-│   ├── EDA_and_Preprocessing.ipynb
-│   ├── Feature_Engineering_and_Model_Development.ipynb
-│   └── Model_Evaluation_and_Optimization.ipynb
-├── reports/
-│   ├── figures/
-│   └── final_report.pdf
-├── src/
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   ├── model_training.py
-│   └── model_evaluation.py
-├── README.md
-└── requirements.txt
-
 ## Team
 - Duc Thanh Nguyen
 - Donporn Rodkrajub
