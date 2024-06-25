@@ -1,0 +1,17 @@
+# Handle line endings automatically for all text files
+* text=auto
+
+# Explicitly declare the line endings for specific file types
+*.py text eol=lf
+*.ipynb text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+
+# Declare binary files - do not modify
+*.jpg binary
+*.png binary
+*.gif binary
+*.pdf binary
+*.zip binary
+*.exe binary
+*.dll binary
